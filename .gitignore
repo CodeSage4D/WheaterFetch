@@ -1,0 +1,3 @@
+# ignore git - VENV
+/venv/
+env/
